@@ -1,0 +1,22 @@
+{
+  "name": "localnodejsservertest",
+  "version": "1.0.0",
+  "description": "This is a test of a local NodeJS Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virnkord/localServerTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virnkord/localServerTest/issues"
+  },
+  "homepage": "https://github.com/Virnkord/localServerTest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
