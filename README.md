@@ -1,2 +1,2 @@
-# localServerTest
-This is a test of a local NodeJS Server.
+# Node.js Server
+Just a simple local NodeJS Server.
